@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdiazizaden
-- 👀 I’m interested in DevOps 
-- 🌱 I’m currently learning Computer Science
+- 👀 I did learn HTML & CSS 
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me on twitter @adamsfour
 
